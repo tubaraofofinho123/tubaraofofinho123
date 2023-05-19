@@ -1,2 +1,1 @@
-oii
-amo pagu
+# oii
