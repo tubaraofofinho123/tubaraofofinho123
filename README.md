@@ -1,6 +1,6 @@
 ![Header](cu.gif)
 # About Me: ૮꒰〃◞ ༝ ◟꒱ა #ょぃ — ♡
-Oii, me chamo Maria Fernanda. <br>Tenho 17 anos e estou cursando Desenvolvimento de Sistemas!! ໒꒰ྀིっ˕ -｡꒱ྀི১ <br>
+Oii, me chamo Maria Fernanda. <br>Tenho 18 anos e estou cursando Desenvolvimento de Sistemas!! ໒꒰ྀིっ˕ -｡꒱ྀི১ <br>
 
 
 ## ♡ socials: 
