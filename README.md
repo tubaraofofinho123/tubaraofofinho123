@@ -5,7 +5,7 @@ Oii, me chamo Maria Fernanda. <br>Tenho 18 anos e estou cursando Desenvolvimento
 
 ## ♡ socials: 
 <div>
- <a href="https://instagram.com/simbiosie" target="_blank"</a> <img src= "https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+ <a href="https://instagram.com/digitalsynco" target="_blank"</a> <img src= "https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
  <a href="https://tiktok.com/@cracolandia12345" target="_blank"</a> <img src= "https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
  <a href="https://www.last.fm/pt/user/necrosier" target="_blank"</a> <img src= "https://img.shields.io/badge/Last.fm-D51007.svg?style=for-the-badge&logo=lastdotfm&logoColor=white">
  <a href="https://www.letterboxd.com/simbiose" target="_blank"</a> <img src= "https://img.shields.io/badge/Letterboxd-00D735.svg?style=for-the-badge&logo=Letterboxd&logoColor=white">
