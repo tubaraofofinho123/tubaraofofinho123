@@ -20,6 +20,10 @@ Oii, me chamo Maria Fernanda. <br>Tenho 18 anos e estou cursando Desenvolvimento
   <img src= "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white">
   </div>
 
+  <div>
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubaraofofinho123&layout=compact&langs_count=16&theme=discord_old_blurple&hide_border=true&card_width=810&border_radius=4.5"/>
+</div>
+
 ---
 ### ♡ scrobblando ...
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=necrosier)
